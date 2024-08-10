@@ -91,3 +91,13 @@ body{
     color: lightskyblue;
     font-weight: bold;
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
