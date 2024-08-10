@@ -50,6 +50,12 @@ body{
     line-height: 1.6;
     font-weight: bold;
 }
+
+.sidebar-link-active {
+    background-color: white;
+    width: 60%;
+}
+
 .content {
     display: flex;
     flex-direction: row; 
